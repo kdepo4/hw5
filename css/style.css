@@ -1,0 +1,227 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+}
+section {
+  max-width: 1440px;
+  margin: auto;
+}
+.img--btn {
+  margin: 0 auto;
+}
+nav {
+  display: flex;
+  align-items: center;
+}
+ul {
+  display: flex;
+  justify-content: flex-start;
+}
+li {
+  list-style: none;
+  padding-left: 3rem;
+}
+.img__btn {
+  max-width: max-content;
+  margin-left: auto;
+}
+.container {
+  margin-top: 29px;
+  display: flex;
+}
+.color--admin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img--end {
+  margin-left: 200px;
+}
+.color--black {
+  margin: 5px;
+  width: 9px;
+  height: 9px;
+  background-color: #000000;
+}
+.img--container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.main--container {
+  display: flex;
+  align-items: center;
+}
+.content {
+  margin: 0;
+}
+.Cardo {
+  font-family: "Cardo", serif;
+  text-align: right;
+  margin-top: 4px;
+}
+.color {
+  text-align: right;
+  margin-top: 12px;
+}
+.color-black {
+  text-align: right;
+  margin-top: 19px;
+  color: #525252;
+}
+.red {
+  color: #000000;
+  text-align: left;
+  margin-top: 163px;
+}
+.Carda {
+  font-family: "Cardo", serif;
+  text-align: left;
+  margin-top: 4px;
+}
+.Cardu {
+  margin: 136px;
+  font-family: "Cardo", serif;
+  text-align: center;
+}
+.Carde {
+  margin: 37px;
+  font-family: "Cardo", serif;
+  text-align: center;
+}
+.container--img {
+  display: flex;
+  justify-content: center;
+}
+.colar {
+  text-align: left;
+  margin-top: 12px;
+}
+.calor {
+  text-align: right;
+  margin-top: 12px;
+}
+.colar-black {
+  text-align: left;
+  margin-top: 19px;
+  color: #525252;
+}
+.center {
+  margin: 61px;
+  text-align: center;
+  font-size: 30px;
+}
+.end {
+  margin: 21px;
+  text-align: center;
+  font-size: 18px;
+}
+.img--img {
+  margin: 10px;
+  width: 327px;
+  height: 550px;
+}
+.color--background {
+  width: 10px;
+  height: 10px;
+  background: #000000;
+}
+.gg-img {
+  margin-left: 133px;
+  margin-top: 54px;
+}
+.card--admin {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  width: 360px;
+  height: 370px;
+}
+.color-background {
+  margin-right: 12px;
+  width: 3px;
+  height: 3px;
+  background: #000000;
+}
+.background--color {
+  margin-right: 9px;
+  margin-left: 7px;
+  width: 7px;
+  height: 7px;
+  background: #000000;
+}
+.img-zontik {
+  max-width: 960px;
+}
+.black {
+  color: #000000;
+  text-align: right;
+  margin-top: 163px;
+}
+.button {
+  margin-top: 25px;
+  border: none;
+  color: #000000;
+  margin-left: 142px;
+}
+.blokc {
+  color: #000000;
+  text-align: left;
+  margin-top: 66px;
+}
+.Furniture {
+  text-align: center;
+  margin: 12px;
+}
+.Design {
+  margin-top: 29px;
+  text-align: center;
+}
+.talking {
+  margin-top: 133px;
+  text-align: center;
+}
+.WE {
+  margin-top: 41px;
+}
+.block {
+  color: #000000;
+  text-align: right;
+  margin-top: 66px;
+}
+@media (width: 600px) {
+  .img--container {
+    display: block;
+  }
+  .card--admin {
+    display: block;
+  }
+}
+@media (width: 1200px) {
+  .img--container {
+    display: block;
+  }
+  .card--admin {
+    display: block;
+  }
+}
+@media (width: 812px) {
+  .img--container {
+    display: block;
+  }
+  .card--admin {
+    display: block;
+  }
+}
+@media (width: 375px) {
+  .img--container {
+    display: block;
+  }
+  .card--admin {
+    display: block;
+  }
+}
